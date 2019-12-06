@@ -1,5 +1,5 @@
 # Unsupervised Anomaly Localization using Variational Auto-Encoders
-<sub><sup><sub><sup> Copyright © German Cancer Research Center (DKFZ), [Division of Medical Image Computing (MIC)](https://www.dkfz.de/en/mic/index.php). Please make sure that your usage of this code is in compliance with the code [license](../master/LICENSE). </sup></sub></sup></sub>
+Copyright © German Cancer Research Center (DKFZ), [Division of Medical Image Computing (MIC)](https://www.dkfz.de/en/mic/index.php). Please make sure that your usage of this code is in compliance with the code [license](../master/LICENSE).
 
 Code for the MICCAI19 paper [Unsupervised Anomaly Localization using Variational Auto-Encoders](https://arxiv.org/abs/1907.02796).
 
